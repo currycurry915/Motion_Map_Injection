@@ -22,7 +22,7 @@ However, because these methods use models pre-trained on text-image pair data, t
 <tr>
   <td align="center" ><b>Input Video</b></td>
   <td align="center" ><b>Video-P2P</b></td>
-  <td align="center" ><b>Ours</b></td>
+  <td align="center" ><b>Video-P2P + Ours</b></td>
 </tr>
 
  <tr>
@@ -33,8 +33,8 @@ However, because these methods use models pre-trained on text-image pair data, t
 
 <tr>
   <td align="center" style colspan="1"><img src="results/colorful_water_input.gif" loop=infinite></td>
-  <td align="center" style colspan="1"><img src="results/colorful_wate_ori.gif"></td>
-  <td align="center" style colspan="1"><img src="results/colorful_wate_MMI.gif"></td>
+  <td align="center" style colspan="1"><img src="results/colorful_water_ori.gif"></td>
+  <td align="center" style colspan="1"><img src="results/colorful_water_MMI.gif"></td>
 </tr>
 
 
