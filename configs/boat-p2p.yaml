@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/jeong_seong_hun/WACV2024/videos/videop2p_output/0616/boat"
+image_path: "/home/jsh/neurips/Video-P2P-combined/data/boat"
+prompt: "bubbles floating in the air made by a girl"
+prompts:
+  - "There is a boat running on the river"
+  - "There is a cruise running on the river"
+blend_word:
+  - 'boat'
+  - 'cruise'
+eq_params:
+  words:
+    - "cruise"
+  values:
+    - 2
+save_name: "cruise"
+is_word_swap: True

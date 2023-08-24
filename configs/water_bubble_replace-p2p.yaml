@@ -1,0 +1,16 @@
+pretrained_model_path:  "/database/WACV_jih/outputs/fish"
+image_path: "/database/WACV_jih/images/magnitude/water_bubble"
+prompt: "floating bubble and the man"
+prompts:
+  - "floating bubble and the man"
+  - "floating jellyfish and the man"
+blend_word:
+  - 'bubble'
+  - 'jellyfish'
+eq_params:
+  words:
+    - "jellyfish"
+  values:
+    - 2
+save_name: "jellyfish"
+is_word_swap: True

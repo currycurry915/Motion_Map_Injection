@@ -1,0 +1,2888 @@
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/firebat-p2p.yaml
+
+run_videop2p_refine_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-p2p_refine_lego.yaml
+
+run_videop2p_refine_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-p2p_refine_lego.yaml
+
+run_videop2p_refine_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-p2p_refine_lego.yaml
+
+run_videop2p_refine_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-p2p_refine_lego.yaml
+
+run_videop2p_refine_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-p2p_refine_lego.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/fountain-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/geyser-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/doughnut-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/doughnut-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/doughnut-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/matches-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ink-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ink-p2p.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ink-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ink-p2p.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine_jih.py --config=configs/car_accident_p2p_refine.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ink-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ink-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/flying_car-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jsh-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=configs/tram-nhj-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_refine.py --config=configs/tram-nhj-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/eagle_landing-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/kick-the-ball-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/kick-the-ball-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/kick-the-ball-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tennis-ball-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tennis-ball-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/drone-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/drone-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/drone-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/drone-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-parking-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/up-down-car-shorts-2-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_moving_jih.py --config=configs/diagonal-car-short-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bus_motion-p2p_.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_ours_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/tram-jih-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_moving_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/diagonal-train-p2p.yaml
+
+run_videop2p_rotation_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_rotation_jih.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs/ne_sw_bus_4f-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/red-car-parking-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/bus-parking-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/tight-parking-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_foreground_.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_foreground_.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_foreground_.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_foreground.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_0601_only_flow.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/NE_truck_4f-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/Lego_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/Lego_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/Lego_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bubble-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rain-bird-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/boat_car_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/boat_car_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/boat_car_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/boat_car_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_rotate_na.py --config=configs/bubble-na-p2p.yaml
+
+run_videop2p_rotate_na.py --config=configs/bubble-na-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate_na.py --config=configs/bubble-na-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bubble-2-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bubble-2-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bubble-2-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bubble-2-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/bubble-2-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine_rotate_jsh.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/baby_bubble-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_refine.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_refine.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_refine.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_refine.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_refine.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/purple-cloud-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/nana/purple-cloud-flowing-p2p.yaml
+
+run_videop2p_magnitude_na.py --config=configs/nana/purple-cloud-flowing-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/two-way-cloud-going-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/two-way-cloud-going-p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/bus_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/blossom-tree-1-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/blossom-tree-1-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/blossom-tree-1-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/blossom-tree-1-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/blossom-tree-2-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/blossom-tree-3-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_na.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/east_train_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/east_train_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/east_train_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/east_train_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/east_train_p2p.yaml
+
+run_videop2p_rotate_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/east_train_p2p.yaml
+
+run_videop2p_only_x.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_only_x.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_only_x.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/windmill-refine-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p_1.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p_1.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p_1.yaml
+
+run_videop2p_refine.py --config=configs/nana/cloud/purple-cloud-flowing-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p_1.yaml
+
+run_videop2p_refine.py --config=configs/nana/cloud/purple-cloud-replace-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p_1.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/cyberpunk_trucks_p2p .yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/cyberpunk_trucks_p2p .yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/island/island-replace-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/island/island-replace-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/island/island-replace-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/island/island-replace-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/cannon/cannon-replace-p2p.yaml
+
+run_videop2p_refine.py --config=configs/nana/cannon/cannon-refine-p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/black_trucks_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/exploding_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/exploding_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/exploding_p2p.yaml
+
+run_videop2p_rotate_0.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/train_x_p2p_1.yaml
+
+run_videop2p_foreground.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_foreground.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_foreground.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_foreground.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_cross_p2p.yaml
+
+run_videop2p_segmentation.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_seg_p2p.yaml
+
+run_videop2p_segmentation.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_seg_p2p.yaml
+
+run_videop2p_segmentation.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_seg_p2p.yaml
+
+run_videop2p_segmentation.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_seg_p2p.yaml
+
+run_videop2p_segmentation.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_seg_p2p.yaml
+
+run_videop2p_segmentation.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih/car_seg_p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/boat-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car-refine-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p_0.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_magnitude.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/rabbit-jump-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_tower_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_tower_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_tower_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_tower_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_mountain_p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/windmill_p2p-tune.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/lighthouse_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/lighthouse_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/lighthouse_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/lighthouse_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/lighthouse_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/lighthouse_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/waterfall_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/campfire_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/car-drive-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/fire_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/candle_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/candle_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/river_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/river_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/hose_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/hose_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/rocket-replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boats_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/burnout_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/water_bubble_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_refine-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/boiling_water_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/cloud_tower_replace-p2p.yaml
+
+run_videop2p_correlation.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_correlation_motion_injection.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_replace.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_replace-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_refine-p2p.yaml
+
+run_videop2p_magnitude_refine.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/airplane_clean_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p_old.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p_3.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_3.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boiling_water_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/water_bubble_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/boats_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_replace_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_replace_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_replace_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_replace_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/windmill_replace_p2p-tune.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/parking_car_refine-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_mountain_lava_p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_2/cloud_tower_replace-p2p.yaml
+
+run_videop2p_final_code_2.py --config=/home/jsh/neurips/Video-P2P-combined/configs_jih_1/skate_refine-p2p.yaml
+
+run_videop2p_correlation_weight_for_back_test.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cloud-1-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight_for_back_test.py --config=/home/jsh/neurips/Video-P2P-combined/configs/balloon-p2p.yaml
+
+run_videop2p_correlation_weight_for_back_test.py --config=/home/jsh/neurips/Video-P2P-combined/configs/balloon-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight.py --config=/home/jsh/neurips/Video-P2P-combined/configs/chlid-ball-p2p.yaml
+
+run_videop2p_correlation_weight_for_back_test.py --config=/home/jsh/neurips/Video-P2P-combined/configs/balloon-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/lighthouse-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/lighthouse-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/wild-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/wild-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/wild-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/wild-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/cup-water-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/mask-p2p.yaml
+
+run_videop2p_correlation_weight_1.py --config=/home/jsh/neurips/Video-P2P-combined/configs/mask-p2p.yaml
+

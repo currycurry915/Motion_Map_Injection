@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/jeong_seong_hun/WACV2024/videos/videop2p_output/0531/red_car_1"
+image_path: "/home/jsh/neurips/Video-P2P-combined/data/parking_new"
+prompt: "There is a car moving"
+prompts:
+  - "There is a car moving"
+  - "There is a red car moving"
+blend_word:
+  - 'car'
+  - 'car'
+eq_params:
+  words:
+    - "red"
+  values:
+    - 2
+save_name: "red_car"
+is_word_swap: False

@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/WACV_jih/outputs/windmill_gold"
+image_path: "/database/WACV_jih/images/magnitude/windmill"
+prompt: "spinning wings of windmill are beside the river"
+prompts:
+  - "spinning wings of windmill are beside the river"
+  - "gold spinning wings of windmill are beside the river"
+blend_word:
+  - 'wings'
+  - 'wings'
+eq_params:
+  words:
+    - "gold"
+  values:
+    - 2
+save_name: "gold"
+is_word_swap: False

@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/WACV_jih/outputs/boats_black"
+image_path: "/database/WACV_jih/images/magnitude/boats"
+prompt: "there is moving boats on the river"
+prompts:
+  - "there is moving boats on the river"
+  - "there is wooden moving boats on the river"
+blend_word:
+  - 'boats'
+  - 'boats'
+eq_params:
+  words:
+    - "wooden"
+  values:
+    - 2
+save_name: "wooden"
+is_word_swap: False

@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/jeong_seong_hun/WACV2024/videos/videop2p_output/0630/cloud_tower_waves"
+image_path: "/home/jsh/neurips/Video-P2P-combined/data/cloud_tower"
+prompt: "clouds flowing under a skyscraper"
+prompts:
+  - "clouds flowing under a skyscraper"
+  - "waves flowing under a skyscraper"
+blend_word:
+  - 'clouds'
+  - 'waves'
+eq_params:
+  words:
+    - "waves"
+  values:
+    - 2
+save_name: "waves"
+is_word_swap: True

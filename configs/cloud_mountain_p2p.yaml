@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/WACV_jih/outputs/cloud_mountain_ocean"
+image_path: "/database/WACV_jih/images/magnitude/cloud_mountain"
+prompt: "there is flowing clouds under the mountains"
+prompts:
+  - "there is flowing clouds under the mountains"
+  - "there is flowing ocean under the mountains"
+blend_word:
+  - 'clouds'
+  - 'ocean'
+eq_params:
+  words:
+    - "ocean"
+  values:
+    - 2
+save_name: "ocean"
+is_word_swap: True

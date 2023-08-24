@@ -1,0 +1,16 @@
+pretrained_model_path: "/database/jih/cyberpunk"
+image_path: "/database/jih/truck_rot_4f"
+prompt: "northeastward moving truck is on the road"
+prompts:
+  - "northeastward moving truck is on the road"
+  - "northeastward moving black truck is on the road"
+blend_word:
+  - 'truck'
+  - 'truck'
+eq_params:
+  words:
+    - "black"
+  values:
+    - 2
+save_name: "black"
+is_word_swap: False
