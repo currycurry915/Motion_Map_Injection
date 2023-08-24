@@ -26,15 +26,15 @@ However, because these methods use models pre-trained on text-image pair data, t
 </tr>
 
  <tr>
-  <td align="center" width=25% style="text-align:center;color:gray;">"clouds flowing under a skyscraper"</td>
-  <td align="center" width=25% style="text-align:center;">"waves flowing under a skyscraper"</td>
-  <td align="center" width=25% style="text-align:center;color:gray;">"waves flowing under a skyscraper"</td>
+  <td align="center" width=25% style="text-align:center;color:gray;">"There is a spreading water on the man"</td>
+  <td align="center" width=25% style="text-align:center;">"There is a colorful spreading water on the man"</td>
+  <td align="center" width=25% style="text-align:center;color:gray;">"There is a colorful spreading water on the man"</td>
 </tr>
 
 <tr>
-  <td align="center" style colspan="1"><img src="results/clouds_waves_input.gif" loop=infinite></td>
-  <td align="center" style colspan="1"><img src="results/clouds_waves_ori.gif"></td>
-  <td align="center" style colspan="1"><img src="results/clouds_waves_MMI.gif"></td>
+  <td align="center" style colspan="1"><img src="results/colorful_water_input.gif" loop=infinite></td>
+  <td align="center" style colspan="1"><img src="results/colorful_wate_ori.gif"></td>
+  <td align="center" style colspan="1"><img src="results/colorful_wate_MMI.gif"></td>
 </tr>
 
 
