@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>AttentionFlow: Text-to-Video Editing Using Motion Map Injection Module</h1>
+<h1>Enhancing Text-to-Video Editing with Motion Map Injection</h1>
 
 
 <br>
