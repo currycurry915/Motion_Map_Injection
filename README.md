@@ -45,9 +45,9 @@ However, because these methods use models pre-trained on text-image pair data, t
 </tr>
 
 <tr>
-  <td align="center" style colspan="1"><img src="results/clouds_lava_input.gif"></td>
-  <td align="center" style colspan="1"><img src="results/clouds_lava_ori.gif"></td>
-  <td align="center" style colspan="1"><img src="results/clouds_lava_MMI.gif"></td>       
+  <td align="center" style colspan="1"><img src="results/clouds_waves_input.gif"></td>
+  <td align="center" style colspan="1"><img src="results/clouds_waves_ori.gif"></td>
+  <td align="center" style colspan="1"><img src="results/clouds_waves_MMI.gif"></td>       
 </tr>
 
 <tr>
