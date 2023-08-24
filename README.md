@@ -5,7 +5,7 @@
 
 <br>
 
-<image src="results/figure1.jpg" width='50%' height='50%' />
+<image src="results/figure-1.jpg" width='50%' height='50%' />
 <br>
 
 </div>
