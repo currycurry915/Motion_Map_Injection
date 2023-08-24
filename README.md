@@ -15,7 +15,7 @@ Text-to-image diffusion, which has been trained with a large amount of text-imag
 
 
 ## Examples
-### You can find more experimental results [on our project page](https://currycurry915.github.io/Attention-Flow/).
+### You can find more experimental results [on our project page](https://currycurry915.github.io/MMI/).
 
 <table class="center">
 <tr>
